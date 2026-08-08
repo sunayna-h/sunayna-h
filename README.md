@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Sunayna Haque — Coder, Developer, Learner"/>
+<img src="./banner.jpg.png" width="100%" alt="Sunayna Haque — Coder, Developer, Learner"/>
 
 <br/>
 
